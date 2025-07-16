@@ -1,0 +1,11 @@
+{
+  "routes": {
+    "/": {},
+    "/auth": {},
+    "/auth/login": {},
+    "/main": {},
+    "/main/add-expense": {},
+    "/main/home": {},
+    "/main/view-expense": {}
+  }
+}
